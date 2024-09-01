@@ -1,0 +1,2 @@
+# self-inline
+inline self 
